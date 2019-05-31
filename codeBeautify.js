@@ -616,4 +616,5 @@ const codeBeautify = {
     return formatted;
   }
 }
+
 export default codeBeautify
